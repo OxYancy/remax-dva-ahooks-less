@@ -1,6 +1,8 @@
 # Remax One
 
-使用 Remax 开发跨平台小程序。
+一个 Remax 开发跨平台小程序 的 js 脚手架。
+
+集成了 dva less ahooks
 
 ## Getting Start
 
