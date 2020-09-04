@@ -7,7 +7,7 @@ module.exports = {
   plugins: [
     RemaxIconfontPlugin({
       // 将上面的CSS加入到此处
-      cssURL: 'http://at.alicdn.com/t/font_1929963_1e4tsm7dso3.css',
+      cssURL: 'http://at.alicdn.com/t/font_8d5l8fzk5b87iudi.css',
     }),
     less({
       lessOptions: {

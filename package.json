@@ -20,10 +20,10 @@
     "react-dom": "^16.12.0",
     "remax": "^2.7.7",
     "remax-dva": "^2.1.0",
-    "remax-iconfont-component": "^1.0.2",
-    "remax-iconfont-plugin": "^1.0.0"
+    "remax-iconfont-component": "^1.0.2"
   },
   "devDependencies": {
-    "cross-env": "^7.0.2"
+    "cross-env": "^7.0.2",
+    "remax-iconfont-plugin": "^1.0.0"
   }
 }
