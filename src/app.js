@@ -1,4 +1,5 @@
 import './app.css'
+import 'anna-remax-ui/dist/anna.css'
 import dva from 'remax-dva'
 import todo from './models/todo'
 import './app.css'

@@ -2,7 +2,8 @@ import React from 'react'
 import { View, Text, Image } from 'remax/one'
 import { connect } from 'remax-dva'
 import { useRequest } from 'ahooks'
-import { Button } from 'remax/wechat'
+import { Button } from 'anna-remax-ui'
+import Icon from 'remax-iconfont-component'
 import { request } from '../../utils/http'
 import './index.less'
 export const IndexPage = ({ todos, dispatch }) => {
@@ -33,6 +34,7 @@ export const IndexPage = ({ todos, dispatch }) => {
         </View>
       ))}
       <View>你的ip: {data.data.origin}</View>
+      <Icon type="iconicon_dianhua"></Icon>
     </View>
   )
 }
